@@ -4,7 +4,7 @@ This Application is about to list out ERC20 fungible tokens and ERC721 a non-fun
 * Ethplorer provides free-apikey to fetch ERC20 tokens from mainnet but it allows to fetch 50 tokens as a whole and also have some limitations for the number of tries.
 
 * Similarly OpenSea has the same limitation to get all NFTs it allows to get max of 50 NFT tokens for the fee-apikey but these are pretty much for our testing/trail scenario.
-* 
+
 # Run and Test:
 This application is hosted in netlify, so by clicking the following link it will take to the application https://cryptocoinslistapp.netlify.app/
 The screen will be look like below 
